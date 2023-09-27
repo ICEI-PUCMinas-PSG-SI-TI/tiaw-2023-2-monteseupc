@@ -5,7 +5,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Bruno Filipe Ramos Martins
 * Breno de Oliveira Hassel
-* Nome completo do aluno 3
+* Washington Junio Lima
 * Nome completo do aluno 4
 
 ## Professores responsáveis
