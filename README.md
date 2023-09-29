@@ -7,6 +7,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Breno de Oliveira Hassel
 * Washington Junio Lima
 * João Pedro Ferreira Bonifácio
+* Bernardo Dias Castro
 
 ## Professores responsáveis
 
