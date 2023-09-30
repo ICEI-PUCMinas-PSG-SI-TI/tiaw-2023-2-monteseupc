@@ -1,21 +1,15 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`TITULO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Monte seu PC
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Análise e Desenvolvimento de sistemas
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Bruno Filipe Ramos Martins
 
 # Estrutura do Documento
 
