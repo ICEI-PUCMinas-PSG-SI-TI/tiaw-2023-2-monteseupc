@@ -61,7 +61,7 @@ Análise e Desenvolvimento de sistemas
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver um software eficaz para solucionar o problema identificado anteriormente, ou seja, auxiliar os usuários na montagem de seus próprios PCs de forma simples e acessível.
+O objetivo geral deste projeto é desenvolver um site eficaz para solucionar o problema identificado anteriormente, ou seja, auxiliar os usuários na montagem de seus próprios PCs de forma simples e acessível.
 
 Para atingir esse objetivo geral, definimos os seguintes objetivos específicos:
 
