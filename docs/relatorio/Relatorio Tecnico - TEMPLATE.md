@@ -82,22 +82,18 @@ A decisão de criar o site "Monte Seu PC" baseia-se em várias razões fundament
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso site "Monte Seu PC" tem como objetivo atender a uma ampla gama de públicos, pois a montagem de PCs é uma atividade que pode atrair diversos perfis de usuários. Aqui estão os principais grupos dentro do nosso público-alvo:
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+- **Iniciantes em Montagem de PCs**: Este grupo é composto por pessoas que têm pouco ou nenhum conhecimento prévio sobre a montagem de computadores. Eles podem ser entusiastas de tecnologia que desejam aprender a montar seu primeiro PC.
+
+- **Hobbistas e Entusiastas**: Esses usuários têm algum conhecimento básico em montagem de PCs e desejam aprofundar seus conhecimentos. Eles podem estar interessados em criar sistemas de alto desempenho para jogos, edição de vídeo ou outras atividades específicas.
+
+- **Usuários de Todos os Gêneros e Idades**: O site é projetado para ser inclusivo, atraindo usuários de todas as idades, gêneros e origens culturais. Queremos que seja acessível para todos.
+
+- **Pessoas com Orçamento Limitado**: Indivíduos que têm orçamento limitado para montar um PC e buscam orientação sobre como fazer escolhas econômicas de componentes.
+
+**Nosso objetivo é criar um ambiente inclusivo, informativo e educacional que atenda a todos os membros do nosso público-alvo, independentemente de seu nível de conhecimento em montagem de PCs.**
+
  
 # Especificações do Projeto
 
