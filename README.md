@@ -8,6 +8,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * Washington Junio Lima
 * João Pedro Ferreira Bonifácio
 * Bernardo Dias Castro
+* Nathan Garibalde Rocha
 
 ## Professores responsáveis
 
