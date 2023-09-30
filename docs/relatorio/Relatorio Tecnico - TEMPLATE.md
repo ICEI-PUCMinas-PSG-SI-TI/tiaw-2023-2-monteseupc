@@ -61,16 +61,14 @@ Análise e Desenvolvimento de sistemas
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste projeto é desenvolver um software eficaz para solucionar o problema identificado anteriormente, ou seja, auxiliar os usuários na montagem de seus próprios PCs de forma simples e acessível.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Para atingir esse objetivo geral, definimos os seguintes objetivos específicos:
+
+- **Desenvolver uma Interface Amigável**: Nosso primeiro objetivo específico é criar uma interface de usuário intuitiva e fácil de usar. Isso permitirá que mesmo iniciantes na montagem de PCs possam navegar e utilizar o programa sem dificuldades.
+
+- **Fornecer Guia Passo a Passo**: O segundo objetivo específico é fornecer um guia passo a passo detalhado para a montagem de um PC. Isso incluirá informações sobre a seleção de componentes, montagem física, instalação de software e solução de problemas comuns.
+
 
 ## Justificativa
 
