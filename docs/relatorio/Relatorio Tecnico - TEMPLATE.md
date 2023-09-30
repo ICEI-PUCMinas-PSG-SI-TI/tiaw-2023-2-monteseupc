@@ -10,6 +10,7 @@ Análise e Desenvolvimento de sistemas
 ## Participantes
 
 - Bruno Filipe Ramos Martins
+- Nathan Garibalde Rocha
 
 # Estrutura do Documento
 
