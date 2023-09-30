@@ -12,6 +12,7 @@ Análise e Desenvolvimento de sistemas
 - Bruno Filipe Ramos Martins
 - Nathan Garibalde Rocha
 - Washington Junio Lima
+- Breno de Oliveira Hassel
 
 # Estrutura do Documento
 
