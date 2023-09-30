@@ -51,16 +51,13 @@ Análise e Desenvolvimento de sistemas
 # Introdução
 
 ## Problema
-
 - Falta de Conhecimento: Muitas pessoas podem não ter conhecimento suficiente sobre como montar um PC por conta própria. Nosso site pode ajudar a preencher essa lacuna, oferecendo informações detalhadas e guias passo a passo.
-- 
 - Dificuldade em Escolher Componentes: Selecionar os componentes certos para um PC pode ser confuso para iniciantes. Nosso site pode orientar os usuários na escolha de peças compatíveis e que atendam às suas necessidades.
+- Orçamento Limitado: Alguns usuários podem ter um orçamento apertado para montar um PC. Nosso site pode oferecer sugestões para montagens de baixo custo ou alternativas econômicas de componentes.
+- Necessidade de Especificações Personalizadas: Muitos usuários desejam PCs personalizados para atender a necessidades específicas, como jogos, edição de vídeo ou design gráfico. Nosso site pode ajudar a projetar sistemas personalizados.
+- Compatibilidade e Drivers: Muitos usuários podem enfrentar problemas relacionados à compatibilidade de hardware e à instalação de drivers. Nosso site pode oferecer orientações nesses aspectos. 
 
--Orçamento Limitado: Alguns usuários podem ter um orçamento apertado para montar um PC. Nosso site pode oferecer sugestões para montagens de baixo custo ou alternativas econômicas de componentes.
 
--Necessidade de Especificações Personalizadas: Muitos usuários desejam PCs personalizados para atender a necessidades específicas, como jogos, edição de vídeo ou design gráfico. Nosso site pode ajudar a projetar sistemas personalizados.
-
--Compatibilidade e Drivers: Muitos usuários podem enfrentar problemas relacionados à compatibilidade de hardware e à instalação de drivers. Nosso site pode oferecer orientações nesses aspectos. 
 
 ## Objetivos
 
