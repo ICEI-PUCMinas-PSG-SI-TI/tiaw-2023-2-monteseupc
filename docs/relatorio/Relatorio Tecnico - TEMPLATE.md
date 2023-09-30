@@ -72,19 +72,13 @@ Para atingir esse objetivo geral, definimos os seguintes objetivos específicos:
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A decisão de criar o site "Monte Seu PC" baseia-se em várias razões fundamentais que destacam a importância e a motivação para a realização deste projeto. Essas razões são essenciais para entender por que escolhemos nossos objetivos específicos e por que nos aprofundamos em certos aspectos do software. 
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+- **Necessidade de Acesso a Informações Confiáveis**: Atualmente, a montagem de PCs é uma habilidade valiosa, mas muitos indivíduos enfrentam dificuldades devido à falta de informações confiáveis e acessíveis. A justificativa principal para este projeto é preencher essa lacuna, fornecendo aos usuários informações precisas e detalhadas sobre como montar um PC.
+
+- **Potencial para Impacto Positivo**: Ao capacitar os usuários a montar seus próprios PCs, acreditamos que podemos fazer uma contribuição positiva para a comunidade de tecnologia e, ao mesmo tempo, ajudar os indivíduos a obterem o máximo de seus investimentos em hardware.
+
+- **Foco na Experiência do Usuário**: A experiência do usuário é fundamental em nosso projeto. Queremos garantir que os usuários, independentemente de seu nível de habilidade, tenham uma experiência de aprendizado agradável e eficaz ao usar nosso software.
 
 ## Público-Alvo
 
