@@ -162,21 +162,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que os usuários se registrem em suas contas no site para acessar recursos personalizados, como salvar configurações de PC e tutoriais preferidos. | ALTA |
 |RF-001| Fornecer uma interface de busca para que os usuários possam pesquisar e selecionar componentes de hardware, como processadores, placas de vídeo e memória RAM, para suas configurações de PC | ALTA |  
-|RF-001|  Implementar uma seção de tutoriais interativos que orientam os usuários passo a passo na montagem de PCs, incluindo seleção de componentes. | ALTA |  
-|RF-004| Disponibilizar uma seção de comparação de preços, onde os usuários possam comparar os preços de componentes de hardware em diferentes lojas online. | MÉDIA |
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RF-004|| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RF-004|| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RF-001| Implementar uma seção de tutoriais interativos que orientam os usuários passo a passo na montagem de PCs, incluindo seleção de componentes. | ALTA |  
+|RF-004| Disponibilizar uma seção de comparação de preços, onde os usuários possam comparar os preços de componentes de hardware em diferentes lojas online. | MÉDIA | 
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser responsivo e otimizado para dispositivos móveis, garantindo uma experiência de usuário consistente em desktops, smartphones e tablets. | ALTA | 
+|RNF-002|  O tempo máximo de resposta do site para processar requisições de usuário, como carregar páginas e recursos, deve ser de no máximo 3 segundos para manter a usabilidade. |  BAIXA | 
+|RNF-003| O site deve ser escalável para acomodar um aumento significativo no tráfego de usuários |  BAIXA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
