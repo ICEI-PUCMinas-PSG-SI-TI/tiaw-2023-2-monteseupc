@@ -165,6 +165,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001|  Implementar uma seção de tutoriais interativos que orientam os usuários passo a passo na montagem de PCs, incluindo seleção de componentes. | ALTA |  
 |RF-004| Disponibilizar uma seção de comparação de preços, onde os usuários possam comparar os preços de componentes de hardware em diferentes lojas online. | MÉDIA |
 
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RF-004|| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RF-004|| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 
 ### Requisitos não Funcionais
