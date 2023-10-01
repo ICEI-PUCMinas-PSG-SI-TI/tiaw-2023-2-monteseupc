@@ -160,8 +160,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+
+|RF-001| Permitir que os usuários se registrem em suas contas no site para acessar recursos personalizados, como salvar configurações de PC e tutoriais preferidos. | ALTA |
+
+|RF-002| Fornecer uma interface de busca para que os usuários possam pesquisar e selecionar componentes de hardware, como processadores, placas de vídeo e memória RAM, para suas configurações de PC | ALTA |  
+
+|RF-003|  Implementar uma seção de tutoriais interativos que orientam os usuários passo a passo na montagem de PCs, incluindo seleção de componentes. | ALTA |  
+
+|RF-004| Disponibilizar uma seção de comparação de preços, onde os usuários possam comparar os preços de componentes de hardware em diferentes lojas online. | MÉDIA |
+
 
 
 ### Requisitos não Funcionais
