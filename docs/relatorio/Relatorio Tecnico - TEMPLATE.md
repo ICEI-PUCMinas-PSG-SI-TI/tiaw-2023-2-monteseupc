@@ -106,7 +106,7 @@ Para desenvolver o site "Monte Seu PC", utilizaremos uma abordagem abrangente qu
 
 - **Iterações e Melhorias Contínuas**: Planejamos realizar iterações regulares no projeto com base no feedback dos usuários, incorporando melhorias contínuas e novas funcionalidades.
 
-- **Documentação Completa**: Criaremos documentação abrangente que descreverá a arquitetura do site, as funcionalidades, os processos de desenvolvimento e as melhores práticas de manutenção.
+- **Desenvolvimento de Interface do Usuário**: Criaremos uma interface de usuário amigável usando tecnologias web, garantindo que o site seja responsivo para dispositivos móveis e ofereça uma experiência agradável ao usuário.
 
 
 ## Personas e Mapas de Empatia
