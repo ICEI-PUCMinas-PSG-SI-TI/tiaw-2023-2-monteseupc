@@ -98,7 +98,7 @@ Nosso site "Monte Seu PC" tem como objetivo atender a uma ampla gama de público
  
 # Especificações do Projeto
 
-.Para desenvolver o site "Monte Seu PC", utilizaremos uma abordagem abrangente que abordará as necessidades de diferentes perfis de usuários dentro do nosso público-alvo. As principais técnicas e ferramentas que serão usadas nesta fase incluem:
+Para desenvolver o site "Monte Seu PC", utilizaremos uma abordagem abrangente que abordará as necessidades de diferentes perfis de usuários dentro do nosso público-alvo. As principais técnicas e ferramentas que serão usadas nesta fase incluem:
 
 - **Levantamento de Requisitos**: Inicialmente, realizaremos um levantamento detalhado de requisitos, que incluirá entrevistas com membros da equipe, pesquisa de mercado e análise das necessidades dos usuários. Isso nos ajudará a definir as funcionalidades-chave do site.
 
