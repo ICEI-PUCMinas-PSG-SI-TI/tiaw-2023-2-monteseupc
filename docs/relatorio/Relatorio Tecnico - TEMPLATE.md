@@ -272,15 +272,19 @@ DISCORD: Realizamos reuniões semanais no Discord para discutir o progresso do p
 ## Divisão de Papéis
 
 Bernardo Castro - Slide / Apresentação:
+
 Responsável por criar os slides e apresentar o projeto.
 
 Bruno Martins - Wireframe / Apresentação:
+
 Encarregado de criar os wireframes, que representam a estrutura e o layout do site.
 
 Washington Junio / Breno Hassel - Documentação:
+
 Responsáveis pela documentação detalhada do projeto.
 
 Nathan Rocha / João Pedro - Design Thinking:
+
 Encarregados de aplicar a abordagem de Design Thinking ao projeto.
 
 
