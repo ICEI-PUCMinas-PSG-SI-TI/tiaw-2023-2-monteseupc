@@ -271,13 +271,17 @@ DISCORD: Realizamos reuniões semanais no Discord para discutir o progresso do p
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Bernardo Castro - Slide / Apresentação:
+Responsável por criar os slides e apresentar o projeto.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Bruno Martins - Wireframe / Apresentação:
+Encarregado de criar os wireframes, que representam a estrutura e o layout do site.
+
+Washington Junio / Breno Hassel - Documentação:
+Responsáveis pela documentação detalhada do projeto.
+
+Nathan Rocha / João Pedro - Design Thinking:
+Encarregados de aplicar a abordagem de Design Thinking ao projeto.
 
 
 ## Ferramentas
