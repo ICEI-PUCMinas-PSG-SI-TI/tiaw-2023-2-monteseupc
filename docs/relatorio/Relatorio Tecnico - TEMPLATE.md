@@ -248,7 +248,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para garantir a eficiência e o sucesso do projeto, cada membro do grupo assumiu papéis e responsabilidades específicas de acordo com suas habilidades e interesses. Realizamos reuniões semanais pelo Discord para discutir o progresso do projeto.
+Ferramentas empregadas:
+
+DISCORD: Realizamos reuniões semanais no Discord para discutir o progresso do projeto, atribuir tarefas e resolver questões emergentes. Além disso, usamos canais de comunicação para manter uma comunicação contínua entre os membros.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
