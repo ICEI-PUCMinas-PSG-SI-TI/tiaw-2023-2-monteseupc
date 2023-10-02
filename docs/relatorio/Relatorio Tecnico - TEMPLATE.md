@@ -271,8 +271,7 @@ DISCORD: Realizamos reuniões semanais no Discord para discutir o progresso do p
 
 ## Divisão de Papéis
 
-Bernardo Castro - Slide / Apresentação:
-
+**Bernardo Castro - Slide / Apresentação**:
 Responsável por criar os slides e apresentar o projeto.
 
 Bruno Martins - Wireframe / Apresentação:
