@@ -229,7 +229,7 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 > **Exemplo**:
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
-
+![Exemplo de Wireframe](docs/relatorio/images/USERFLOW2.JPG)
 
 # Metodologia
 
