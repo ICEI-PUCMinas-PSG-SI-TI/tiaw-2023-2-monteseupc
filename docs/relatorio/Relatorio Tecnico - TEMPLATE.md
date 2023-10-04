@@ -209,7 +209,7 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 > **Exemplo**:
 > 
 > ![Exemplo de UserFlow](images/userflow.jpg)
-> ![Exemplo de UserFlow](docs/relatorio/images/USERFLOW2.JPG)
+
 
 
 ## Wireframes
