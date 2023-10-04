@@ -180,15 +180,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| Orçamento limitado. Os usuários podem ter restrições orçamentárias que limitam suas opções de compra de hardware.|
-|04| Conhecimento do Usuário. Alguns usuários podem ter conhecimento técnico limitado em hardware de computador, o que pode afetar sua capacidade de realizar a montagem com sucesso, mesmo com as recomendações do site.|
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 # Projeto de Interface
