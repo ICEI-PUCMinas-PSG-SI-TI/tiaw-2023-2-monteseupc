@@ -136,7 +136,7 @@ Para desenvolver o site "Monte Seu PC", utilizaremos uma abordagem abrangente qu
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
 >
-> ![Diagrama de fluxo de usuários](/images/USERFLOW2.JPG)
+> 
 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
