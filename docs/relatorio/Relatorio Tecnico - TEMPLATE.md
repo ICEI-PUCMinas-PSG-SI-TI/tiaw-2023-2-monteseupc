@@ -265,7 +265,7 @@ Foram usado as seguintes ferramentas no projeto:
 |Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUCMinas-PSG-SI-TI/tiaw-2023-2-monteseupc/tree/master/codigo | 
 |Canal de Comunicação | Discord |  https://discord.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo |  Figma | [https://figma.com/XXXXXXX](https://www.figma.com/file/iP3EuLyG3iLJk5mxpsQFze/Monte-seu-PC?type=design&node-id=0-1&mode=design) | 
 
 
 
