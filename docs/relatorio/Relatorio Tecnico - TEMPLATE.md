@@ -9,10 +9,12 @@ Análise e Desenvolvimento de sistemas
 
 ## Participantes
 
-- Bruno Filipe Ramos Martins
-- Nathan Garibalde Rocha
-- Washington Junio Lima
-- Breno de Oliveira Hassel
+* Bruno Filipe Ramos Martins
+* Breno de Oliveira Hassel
+* Washington Junio Lima
+* João Pedro Ferreira Bonifácio
+* Bernardo Dias Castro
+* Nathan Garibalde Rocha
 
 # Estrutura do Documento
 
