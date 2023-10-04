@@ -1,5 +1,5 @@
 # Monte seu PC
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo do nosso projeto é criar um site chamado "Monte Seu PC", que visa ser uma plataforma abrangente e acessível para entusiastas e iniciantes interessados em montar seu próprio computador.
 
 ## Alunos integrantes da equipe
 
@@ -12,8 +12,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Gabriel Barbosa Da Fonseca
+
 
 ## Instruções de utilização
 
