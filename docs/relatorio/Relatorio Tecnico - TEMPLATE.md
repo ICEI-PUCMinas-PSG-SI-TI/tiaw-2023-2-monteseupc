@@ -181,8 +181,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03| Orçamento limitado. Os usuários podem ter restrições orçamentárias que limitam suas opções de compra de hardware|
-|04| Conhecimento limitado dos usuários que pode afetar a capacidade de realizar a montagem com sucesso  |
+
 
 
 
