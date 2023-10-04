@@ -232,11 +232,6 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 > - [Figma](https://www.figma.com/)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
 
 # Metodologia
 
