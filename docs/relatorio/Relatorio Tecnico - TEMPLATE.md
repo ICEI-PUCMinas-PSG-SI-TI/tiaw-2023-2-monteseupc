@@ -217,6 +217,10 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 > **Tela de detalhes**:
 > 
 > ![Pagina PC de jogos](images/pc_jogos.png)
+> 
+> **Tela de monte você**:
+> 
+> ![Pagina monte você](images/tela_monte_voce.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
