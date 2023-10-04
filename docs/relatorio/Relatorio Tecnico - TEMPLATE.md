@@ -146,16 +146,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Um auxílio para montar um computador ideal para o que eu necessito      | Para que eu possa ter uma experiência de trabalho/estudo melhor             |
 |Administrador       | Auxiliar os usuários                 | Fornecer suporte aos usuários, respondendo a perguntas, solucionando problemas e oferecendo orientação técnica.|
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
 
@@ -200,13 +191,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  A solução para "Monte seu PC" consiste em interfaces que os usuários interagem para alcançar seus objetivos. Listarei algumas das principais interfaces da solução elaboradas para atender aos requisitos funcionais e não funcionais:
-Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, programa de responsividade, interface de busca de peças e entre outros.......
+As soluções de interface para "Monte seu PC" consiste em interfaces que os usuários interagem para alcançar seus objetivos. Listarei algumas das principais interfaces da solução elaboradas para atender aos requisitos funcionais e não funcionais:
+Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, programa de responsividade, interface de busca de peças e entre outros.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -254,21 +241,7 @@ Ferramentas empregadas:
 
 DISCORD: Realizamos reuniões semanais no Discord para discutir o progresso do projeto, atribuir tarefas e resolver questões emergentes. Além disso, usamos canais de comunicação para manter uma comunicação contínua entre os membros.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 
 ## Divisão de Papéis
 
@@ -296,28 +269,7 @@ Foram usado as seguintes ferramentas no projeto:
 |Canal de Comunicação | Discord |  https://discord.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+
 
 ## Controle de Versão
 
