@@ -210,7 +210,13 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 
 ## Wireframes
 
-> ![UserFlow](images/wireframe.png)
+> **Tela Inicial**:
+> 
+> ![Home](images/wireframe.png)
+> 
+> **Tela de detalhes**:
+> 
+> ![Pagina PC de jogos](images/pc_jogos.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
