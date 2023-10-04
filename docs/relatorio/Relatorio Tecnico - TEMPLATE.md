@@ -210,7 +210,7 @@ Tutoriais interativos, resgistro de conta e acesso a recursos personalizados, pr
 > 
 > ![Exemplo de UserFlow](images/userflow.jpg)
 >
->![Diagrama de fluxo de usuários](/images/USERFLOW2.JPG)
+>
 
 
 
