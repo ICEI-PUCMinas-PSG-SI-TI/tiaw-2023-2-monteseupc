@@ -142,16 +142,23 @@ Necessidade de orientações claras e fáceis de seguir.
 
 
 **Nome: Ana**
+
 Idade: 28 anos
+
 Hobby: Jogar videogames
+
 Trabalho: Designer gráfica
+
 Personalidade: Extrovertida, entusiástica, amigável
 Sonhos: Tornar-se uma streamer de jogos popular
+
 Objetos e Lugares:
 Ana usa um computador gaming personalizado com componentes de alta performance. Ela também usa redes sociais e aplicativos de streaming para se conectar com sua comunidade de jogos. Ela joga em casa, em seu escritório e faz streaming em plataformas online.
 
+
 Objetivos Chave:
 Seus objetivos-chave incluem encontrar um PC de jogos que atenda às suas necessidades de desempenho e transmitir jogos com qualidade. Ela precisa desse serviço para obter orientação sobre as melhores peças e configurações para seus jogos e streaming.
+
 
 Como Devemos Tratá-La:
 Trate Ana com entusiasmo e interesse genuíno por seus projetos de jogos. Respeite sua paixão e forneça recomendações personalizadas para suas necessidades de montagem de PC.
