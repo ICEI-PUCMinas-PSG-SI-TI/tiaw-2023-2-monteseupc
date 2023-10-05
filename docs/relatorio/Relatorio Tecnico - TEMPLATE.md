@@ -113,23 +113,33 @@ Para desenvolver o site "Monte Seu PC", utilizaremos uma abordagem abrangente qu
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Nome: Maria Silva**
 
+Idade: 28 anos
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
+Profissão: Designer Gráfico
+
+Nível de Experiência em Montagem de PCs: Iniciante
+
+Interesses e Necessidades:
+
+Maria é uma designer gráfico que usa o computador para trabalhar em projetos criativos, como edição de imagens e design gráfico.
+Ela está interessada em montar um PC personalizado para atender às suas necessidades de desempenho e design.
+Maria não tem muita experiência em montagem de PCs, portanto, procura informações e orientações claras para ajudá-la a escolher os componentes certos.
+Ela está preocupada com o orçamento e deseja encontrar opções acessíveis, mas também quer um PC que seja rápido e confiável para seu trabalho.
+Maria valoriza a estética e o design do PC, pois deseja que ele se encaixe bem em seu espaço de trabalho.
+Objetivos ao Visitar seu Site:
+
+Aprender sobre os componentes necessários para montar um PC para suas necessidades específicas.
+Encontrar orientações passo a passo sobre como montar um PC, incluindo dicas de montagem e compatibilidade.
+Comparar preços e opções para encontrar componentes que se encaixem em seu orçamento.
+Obter informações sobre as melhores práticas de design de PCs para que seu computador seja funcional e estéticamente agradável.
+Desafios:
+
+Falta de experiência em montagem de PCs.
+Preocupação com o custo total do projeto.
+Necessidade de orientações claras e fáceis de seguir.
+
 > 
 > 
 > **Exemplo de Persona**
