@@ -317,21 +317,45 @@ Foram usado as seguintes ferramentas no projeto:
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+HTML (Hypertext Markup Language):
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+- Função: Responsável por estruturar o conteúdo da página web.
+- Utilidade: Define a hierarquia e organização dos elementos na página, como cabeçalhos, parágrafos, listas, imagens, etc.
 
+CSS (Cascading Style Sheets):
+
+- Função: Controla a apresentação e o estilo da página web.
+- Utilidade: Define o layout, as cores, as fontes e outros estilos visuais para melhorar a aparência e a usabilidade da página.
+
+JavaScript:
+
+- Função: Linguagem de programação utilizada para adicionar interatividade às páginas web.
+- Utilidade: Permite criar elementos dinâmicos, validar formulários, interagir com APIs e realizar diversas operações do lado do cliente.
+
+Bootstrap:
+
+- Função: Biblioteca de design e estilos para o desenvolvimento ágil de interfaces responsivas.
+- Utilidade: Fornece componentes prontos, como botões, formulários, barras de navegação, que facilitam o desenvolvimento e garantem uma aparência consistente em diferentes dispositivos.
+
+Figma:
+
+- Função: Ferramenta de design colaborativo para criar wireframes, protótipos e layouts de interface.
+Utilidade: Facilita a visualização e colaboração no design do projeto, permitindo criar esboços visuais antes da - implementação.
+
+Replit:
+
+- Função: Plataforma online que oferece um ambiente de desenvolvimento integrado (IDE).
+- Utilidade: Permite escrever, testar e compartilhar código de maneira eficiente, facilitando a colaboração em projetos.
+
+Visual Studio Code:
+
+- Função: Uma IDE leve e poderosa para desenvolvimento.
+- Utilidade: Oferece recursos avançados, como realce de sintaxe, depuração, controle de versão, facilitando a codificação e o gerenciamento de projetos.
+
+JSON Server:
+
+- Função: Simula uma API RESTful usando um arquivo JSON.
+- Utilidade: Útil para desenvolvimento front-end quando uma API real não está disponível, permitindo testar a integração e o comportamento do aplicativo. 
 ## Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
