@@ -340,7 +340,7 @@ Bootstrap:
 Figma:
 
 - Função: Ferramenta de design colaborativo para criar wireframes, protótipos e layouts de interface.
-Utilidade: Facilita a visualização e colaboração no design do projeto, permitindo criar esboços visuais antes da - implementação.
+- Utilidade: Facilita a visualização e colaboração no design do projeto, permitindo criar esboços visuais antes da implementação.
 
 Replit:
 
