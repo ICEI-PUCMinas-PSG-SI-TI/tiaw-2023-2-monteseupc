@@ -387,5 +387,6 @@ JSON Server:
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
+> > - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
