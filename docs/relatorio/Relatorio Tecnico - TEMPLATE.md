@@ -323,8 +323,6 @@ JSON Server:
 
 - Função: Simula uma API RESTful usando um arquivo JSON.
 - Utilidade: Útil para desenvolvimento front-end quando uma API real não está disponível, permitindo testar a integração e o comportamento do aplicativo. 
-## Arquitetura da solução
-
 
 
 # Referências
