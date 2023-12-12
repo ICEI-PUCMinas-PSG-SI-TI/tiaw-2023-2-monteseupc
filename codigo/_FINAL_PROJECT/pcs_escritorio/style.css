@@ -1,0 +1,81 @@
+.card-body a.btn.btn-primary {
+  background-color: red;
+  border-color: red;
+  font-size: 20px !important;
+}
+
+.card {
+  background-color: #1E1E1E !important;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  text-align: center;
+  color: #fff !important;
+}
+
+.card-texttt {
+  color: #119211 !important;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+
+.card-textt {
+  color: #119211 !important;
+  font-family: Verdana, sans-serif !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+}
+
+.card img {
+  max-width: 90%;
+  height: auto;
+}
+
+.card .card-title {
+  font-family: Verdana, sans-serif !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+  margin: 10px 0;
+  color: #fff !important;
+}
+
+.card .card-text {
+  font-family: Verdana, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+  color: #fff !important;
+}
+
+.card-link {
+  text-decoration: none;
+  color: #fff !important;
+
+}
+
+
+.header {
+  background-color: #1E1E1E;
+  padding: 16px 32px;
+}
+
+body {
+  background-color: #505050 !important;
+}
+
+
+label,
+span {
+  color: white !important
+}
+
+label {
+  display: block !important;
+  color: white;
+}
+
+select {
+  background-color: #119211;
+  color: white;
+}

@@ -1,0 +1,80 @@
+body {
+    font-family: Open Sans;
+    background-color: #505050;
+    margin: 0;
+}
+
+.header {
+    background-color: #1E1E1E !important;
+    padding: 16px 32px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#title {
+    text-decoration: dotted;
+}
+
+#quiz {
+    text-indent: 10px;
+    display: none;
+}
+
+.button {
+    border: 4px solid;
+    border-radius: 5px;
+    width: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+    float: right;
+    background-color: #d6f7d6;
+    color: black;
+    margin: 0 2px 0 2px;
+}
+
+.button.active {
+    background-color: rgb(110, 137, 110);
+    color: #525252;
+}
+
+button {
+    position: relative;
+    float: right;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+#wrapper {
+    width: 50%;
+    margin: auto;
+    padding: 0 25px 40px 10px;
+    background-color: #1e9b1e;
+    border: 4px solid #9af79a;
+    border-radius: 5px;
+    color: #050505;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px #888;
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#prev {
+    display: none;
+}
+
+#start {
+    display: none;
+    width: 90px;
+}
