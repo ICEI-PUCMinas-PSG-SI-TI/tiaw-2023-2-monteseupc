@@ -1,0 +1,22 @@
+body {
+  background-color: #505050 !important;
+  margin: 0;
+}
+
+.header {
+  background-color: #1E1E1E;
+  padding: 16px 32px;
+}
+
+#exibedestaque {
+  margin-top: 10px;
+}
+
+#exibecard {
+  margin-top: 20px;
+
+}
+
+.card {
+  background-color: #505050 !important;
+}
